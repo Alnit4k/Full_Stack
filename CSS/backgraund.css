@@ -1,0 +1,44 @@
+/*Hoje vamos aprender um pouco sobre backgound*/
+
+/* Definimos a area dessa DIV e colocamos uma cor a mesma*/
+
+/*Quando nós temos */
+
+div {
+    
+    width: 500px;
+    height: 300px;
+    /*
+    background-color: brown;
+    background-image: url('./imagens/texture.png');
+    background-size: cover;
+   */
+    background: cornflowerblue url('./imagens/texture.png') no-repeat top;
+}
+/*É possivel configurar alguams coisas no background no shorthand 
+entretanto tem algumas como o size que não é possivel, vale se
+atentar a isso*/
+
+
+/*Quando utlizamos a imagem no nosso body ou em qualquer outro 
+atributo ele por padrão repete a imagem para não perder a 
+qualidade*/
+
+/*Já a função cover ele vai cobrir todo elemento, entretanto 
+perde a qualidade*/
+
+/*Posso usar também a função repeat para não repetir ou 
+repetir para apenas um lado "x ou y"*/
+
+/*Agora podemos mudar a posição da imagem, no "top", "center" o
+u "botton utilizando position"*/
+
+/*Uma função bastante interessante é o attachment fixed que permite
+que nosso backgraund fique fixo trazendo um visual mais bonito*/
+
+body {
+    background-image: url('/imagens/Colorful-Geometric-Simple-Background-Image.jpg') ;
+    background-attachment: inherit;
+    
+}
+

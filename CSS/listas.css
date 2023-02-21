@@ -1,0 +1,53 @@
+
+
+
+ul.c{
+    color: black;
+    border: solid;
+    border-radius: 20px;
+    background-color: saddlebrown;
+
+}
+
+ol.d{
+    background-color: rgb(112, 112, 230) ;
+    color: black;
+    border: solid aquamarine ;
+    border-radius: 20px;
+    
+}
+
+
+li.sty{
+    border: solid;
+    padding: 8px;
+    background-color: aquamarine;
+    border-radius: 20px;
+    border: solid aquamarine;
+   margin: 16px 16px 16px;
+}
+
+li.sty2{
+    border: solid;
+    padding: 8px;
+    background-color:salmon;
+    border-radius: 20px;
+    margin: 16px 16px 16px;
+
+}
+
+/*<-----------------------|----------------------->*/
+
+ul.a{
+    list-style-type: disc;
+    color: white;
+}
+
+ol.b{
+    list-style-type: decimal-leading-zero;
+    color: white;
+}
+
+ul{
+    color: white;
+}

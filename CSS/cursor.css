@@ -1,0 +1,26 @@
+div{
+    width: 400px;
+    height: 200px;
+    background-color: antiquewhite;
+    margin: auto;
+    padding: 10px 50px 30px 10px;
+
+    
+}
+
+ul{
+    list-style-type: lower-latin;
+}
+
+li{
+    background-color: rgb(192, 174, 147);
+    padding: 5px;
+    border: solid rgb(192, 174, 147);
+    border-radius: 10px;
+    margin: 10px 10px 10px;
+    cursor: ns-resize;
+}
+h1{
+    text-align: center;
+    margin-top: 16px;
+}

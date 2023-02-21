@@ -1,0 +1,20 @@
+#p1{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    padding: 10px;
+    border: 10px solid black;
+    box-sizing: border-box;
+    
+}
+
+#p2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(145, 92, 92);
+    margin-top: 10px;
+}
+
+/*Hoje vimos como ajsutar o tamanho de um elemento atravez do 
+box-sizing, acontece muito quando usams propriedades que acabam
+afetando o tamanho do nosso elemento, como border ou pagging*/  

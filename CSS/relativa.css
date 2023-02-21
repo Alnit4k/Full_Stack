@@ -1,0 +1,30 @@
+#i1{
+    background-color: aquamarine;
+    width: 700px;
+    height:300px;
+}
+
+#i2{
+    background-color: bisque;
+    width: 500px;
+    height: 400px;
+    
+}
+
+#i3{
+    background-color:darkkhaki;
+    width: 600px;
+    height: 300px;
+}
+ 
+.foto {
+    width: 50vw;
+}
+
+/*Podemos ver que ao usar a unidade relativa porcentagem, a 
+imagem se adapta ao tamanho da nossa "tag pai" ou seja, onde
+essa imagem esteja ela vai se adaptar, seja na altura ou 
+largura, já podemos verificar outra unicade de medida a vw
+ou viwerpoint que vai pegar como referencial nossa tela uma unidade
+bastante importante para nós que usaremos futuramente para fazer projetos
+compativeis com qualquer dispositivo e navegador*/

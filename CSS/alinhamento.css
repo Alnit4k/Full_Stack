@@ -1,0 +1,25 @@
+#pp{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+
+}
+
+#orion{
+    text-align: center;
+   
+}
+
+p{
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+
+}
+/*Hoje vimos como o alinhamento em horizontal é util em 
+diferentes situações por exemplo se eu aplinhar o elemento
+paragrafo no centro ele não vai ficar com o texto centralizado
+para isso utilizo o text-align, mas uma das maiores peculiaridades
+é o alinhamento de imagem que é feito dentro de uma div usando
+o text-align*/

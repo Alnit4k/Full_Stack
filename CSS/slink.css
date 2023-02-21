@@ -1,0 +1,29 @@
+a{
+    background-color: aqua;
+    padding: 15px;
+    
+}
+/*Link visitado*/
+
+a:visited{
+    background-color: blueviolet;
+
+}
+
+/*Passando o mouse*/
+
+a:hover{
+    padding: 20px;
+    background-color: antiquewhite;
+    
+}
+
+/*Clicando no link*/
+
+a:active{
+    background-color: brown;
+
+}
+
+/*Nessa aula vimos com podemos deixar nossos links mais
+interativos mediante a ação do usuario*/

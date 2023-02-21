@@ -1,0 +1,116 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400&display=swap');
+
+
+body{
+    font-family: 'Open Sans';
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+}
+
+
+
+.topbar{
+    background-color: #c4170c;       
+    height: 52px;
+    line-height: 52px;
+    text-align: center;    
+    color: rgb(255, 255, 255) ;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+#bottom{
+    background-color: #c4170c;    
+    height: 100px;   
+     
+}
+
+#header{
+    
+    max-width: 888px;
+    margin: auto;
+    padding: 30px;
+
+}
+
+h1{
+    font-size: 56px;
+    font-weight: bold;
+    line-height: 64px;
+}
+
+.subtitle{
+    font-weight: normal; 
+    font-size: 20px;
+}
+
+.author{
+    margin-top: 30px;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 10px;
+
+}
+
+
+#container{
+    max-width: 648px;
+    margin: auto;
+    padding: 30px;
+
+}
+
+p{
+    font-size: 20px;
+    line-height: 32px;
+
+}
+.CTA{
+    font-size: 20px;
+    margin: 30px;
+
+}
+
+.img1{    
+    width: 100%;
+}
+
+.social-midia{
+    margin-top: 10px;
+    margin-bottom: 40px;
+
+}
+.social-icon{
+    width: 20px;
+    padding: 10px 10px 10px 0;
+}
+
+a{
+    text-decoration: none;
+    color: orange;
+    font-weight: 700;
+
+}
+
+hr{
+    margin: 10px;
+}
+
+.fig{
+    margin-top: 1rem;   
+    font-size: .75rem;
+    line-height: 1rem;
+    margin-bottom: 40px;
+}
+
+figure{
+    padding: 0;
+    margin: 40px;
+}
+
+img{
+    width: 50%;
+
+}

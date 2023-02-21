@@ -1,0 +1,13 @@
+/*Hoje vimos um pouco da propriedade RGB e um pouco de seu poder, 
+para fazer cores customizadas usamos a mesma, podendo ser manipulada 
+manualmente pelo mouse ou digitando os numeros relativos as corres t
+anto em decimais como em hexadecimais apesar do mais usado ser 
+manualmente vimos também que podemos mudar a opacidade com a propriedade RGBA*/
+
+p{
+    color: rgb(255, 255, 0);
+    color: #FF0;
+    color: rgb(rgb(48, 56, 14)) ;
+    color: rgba(25, 30, 100, 0,5)
+
+}

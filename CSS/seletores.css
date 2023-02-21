@@ -1,0 +1,23 @@
+p{
+    color: brown;
+}
+
+#p1{
+    background-color: black;
+    color: aliceblue;
+}
+
+.p2{
+    background-color: red;
+    color: black;
+
+}
+
+/* hoje vimos como usamos tipos de seletores como já tinhamos 
+aprendido o de tag demos inicio hoje ao de class id a diferença 
+basica dos dois é quão especifico será necessaria a formatação 
+utilizamos o tag para abrangir todas as tags e elemtntos o class 
+para selecinar todas as classes que foram identificadas com esse s
+seletor podendo ser usado em mais de um elemento já o ID sempre vai 
+ser bem especifico podendo ser usado apenas uma vez */
+
